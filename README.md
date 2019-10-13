@@ -1,0 +1,1 @@
+The project was created using HTML and CSS. The website employs fullpage.js library and TimelineMax and TweenMax library as well.
